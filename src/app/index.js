@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
-import Home from './app/components/home/home';
+import Home from './components/home/home';
 
 const element = <Home></Home>;
 
